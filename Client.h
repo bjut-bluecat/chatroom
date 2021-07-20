@@ -1,4 +1,4 @@
-#ifndef CHATROOM_CLIENT_H
+dgdfgf#ifndef CHATROOM_CLIENT_H
 #define CHATROOM_CLIENT_H
 
 #include <string>
